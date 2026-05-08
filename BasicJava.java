@@ -10,7 +10,6 @@ public class BasicJava {
             System.err.println();
         }
     }
-
     public static void main(String[] args)
      {
         solid_rohumbus(6);
